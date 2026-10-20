@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" width="120" alt="M365 Read-Only Diagnostics icon"></p>
+
 # M365 Read-Only Diagnostics
 
 Read-only, sanitized PowerShell troubleshooting scripts for Microsoft 365. They collect back-end diagnostics first, flag the usual root causes in plain language, and write a shareable report. **No script changes anything in Microsoft 365 or on the PC.**
