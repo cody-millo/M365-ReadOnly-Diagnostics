@@ -1,0 +1,6 @@
+# Diagnostic output (may contain tenant data) and private de-anonymization maps
+Reports/
+*.map.json
+# Local scratch
+*.tmp.*
+Thumbs.db
